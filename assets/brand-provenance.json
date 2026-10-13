@@ -1,0 +1,461 @@
+[
+  {
+    "id": "aldo",
+    "kind": "logo",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/Aldo-840x840.jpg",
+    "page": "https://thecentaurusmall.com/team/aldo/",
+    "file": "assets/brands/aldo-logo.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "aldo",
+    "kind": "store",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/aldo-1.jpg",
+    "page": "https://thecentaurusmall.com/team/aldo/",
+    "file": "assets/brands/aldo-store.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "sapphire",
+    "kind": "logo",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/Sapphire.jpg",
+    "page": "https://thecentaurusmall.com/team/sapphire/",
+    "file": "assets/brands/sapphire-logo.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "sapphire",
+    "kind": "store",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/sapphire-1.jpg",
+    "page": "https://thecentaurusmall.com/team/sapphire/",
+    "file": "assets/brands/sapphire-store.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "outfitters",
+    "kind": "logo",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/Outfitters.jpg",
+    "page": "https://thecentaurusmall.com/team/outfitters/",
+    "file": "assets/brands/outfitters-logo.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "outfitters",
+    "kind": "store",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/outfitters-1.jpg",
+    "page": "https://thecentaurusmall.com/team/outfitters/",
+    "file": "assets/brands/outfitters-store.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "nike",
+    "kind": "logo",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/NIKE.jpg",
+    "page": "https://thecentaurusmall.com/team/nike/",
+    "file": "assets/brands/nike-logo.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "nike",
+    "kind": "store",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/nike-1.jpg",
+    "page": "https://thecentaurusmall.com/team/nike/",
+    "file": "assets/brands/nike-store.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "skechers",
+    "kind": "logo",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/Skechers-840x840.jpg",
+    "page": "https://thecentaurusmall.com/team/skechers/",
+    "file": "assets/brands/skechers-logo.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "skechers",
+    "kind": "store",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/skechers-1.jpg",
+    "page": "https://thecentaurusmall.com/team/skechers/",
+    "file": "assets/brands/skechers-store.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "levis",
+    "kind": "logo",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/Levis-840x840.jpg",
+    "page": "https://thecentaurusmall.com/team/levis/",
+    "file": "assets/brands/levis-logo.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "levis",
+    "kind": "store",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/levis-1.jpg",
+    "page": "https://thecentaurusmall.com/team/levis/",
+    "file": "assets/brands/levis-store.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "charles-keith",
+    "kind": "logo",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/Charles-Keith-840x840.jpg",
+    "page": "https://thecentaurusmall.com/team/charles-keith/",
+    "file": "assets/brands/charles-keith-logo.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "charles-keith",
+    "kind": "store",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/charles-and-keith.jpg",
+    "page": "https://thecentaurusmall.com/team/charles-keith/",
+    "file": "assets/brands/charles-keith-store.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "miniso",
+    "kind": "logo",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/Minisoo-1-840x840.jpg",
+    "page": "https://thecentaurusmall.com/team/miniso/",
+    "file": "assets/brands/miniso-logo.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "miniso",
+    "kind": "store",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/miniso.jpg",
+    "page": "https://thecentaurusmall.com/team/miniso/",
+    "file": "assets/brands/miniso-store.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "body-shop",
+    "kind": "logo",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/The-Body-Shop-840x840.jpg",
+    "page": "https://thecentaurusmall.com/team/the-body-shop/",
+    "file": "assets/brands/body-shop-logo.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "body-shop",
+    "kind": "store",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/The-Body-Shop-1536x1023.jpeg",
+    "page": "https://thecentaurusmall.com/team/the-body-shop/",
+    "file": "assets/brands/body-shop-store.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "sana-safinaz",
+    "kind": "logo",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/Sana-Safinaz.jpg",
+    "page": "https://thecentaurusmall.com/team/sana-safinaz/",
+    "file": "assets/brands/sana-safinaz-logo.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "sana-safinaz",
+    "kind": "store",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/Sana-Safinaz-1.jpg",
+    "page": "https://thecentaurusmall.com/team/sana-safinaz/",
+    "file": "assets/brands/sana-safinaz-store.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "j",
+    "kind": "logo",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/j.jpg",
+    "page": "https://thecentaurusmall.com/team/j/",
+    "file": "assets/brands/j-logo.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "j",
+    "kind": "store",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/j-1.jpg",
+    "page": "https://thecentaurusmall.com/team/j/",
+    "file": "assets/brands/j-store.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "alkaram",
+    "kind": "logo",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2023/11/ALKARAM-840x840.png",
+    "page": "https://thecentaurusmall.com/team/alkaram/",
+    "file": "assets/brands/alkaram-logo.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "alkaram",
+    "kind": "store",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2023/11/Alkaram.jpg",
+    "page": "https://thecentaurusmall.com/team/alkaram/",
+    "file": "assets/brands/alkaram-store.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "cinnabon",
+    "kind": "logo",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2025/06/Cinnabon-840x840.png",
+    "page": "https://thecentaurusmall.com/team/cinnabon/",
+    "file": "assets/brands/cinnabon-logo.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "koa",
+    "kind": "logo",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2025/06/KOA-840x840.png",
+    "page": "https://thecentaurusmall.com/team/koa/",
+    "file": "assets/brands/koa-logo.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "taana-baana",
+    "kind": "logo",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2025/05/Taana-Baana-840x840.png",
+    "page": "https://thecentaurusmall.com/team/taana-baana/",
+    "file": "assets/brands/taana-baana-logo.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "imrozia",
+    "kind": "logo",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2025/05/Imrozia-Serene-840x840.png",
+    "page": "https://thecentaurusmall.com/team/imrozia-serene/",
+    "file": "assets/brands/imrozia-logo.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "imrozia",
+    "kind": "store",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-06-at-10.53.51-AM-1536x1021.jpeg",
+    "page": "https://thecentaurusmall.com/team/imrozia-serene/",
+    "file": "assets/brands/imrozia-store.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "gloria-jeans",
+    "kind": "logo",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/gloria-jeans.jpg",
+    "page": "https://thecentaurusmall.com/team/gloria-jeans/",
+    "file": "assets/brands/gloria-jeans-logo.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "gloria-jeans",
+    "kind": "store",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/gloria-jeans-1.jpg",
+    "page": "https://thecentaurusmall.com/team/gloria-jeans/",
+    "file": "assets/brands/gloria-jeans-store.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "broadway",
+    "kind": "logo",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2023/11/Broadway-840x840.jpg",
+    "page": "https://thecentaurusmall.com/team/broadway-pizza/",
+    "file": "assets/brands/broadway-logo.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "broadway",
+    "kind": "store",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2023/11/broadway-pizza-e1715240677860.jpg",
+    "page": "https://thecentaurusmall.com/team/broadway-pizza/",
+    "file": "assets/brands/broadway-store.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "ginyaki",
+    "kind": "logo",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/Ginyaki-840x840.png",
+    "page": "https://thecentaurusmall.com/team/ginyaki/",
+    "file": "assets/brands/ginyaki-logo.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "ginyaki",
+    "kind": "store",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/gin-x-press.jpg",
+    "page": "https://thecentaurusmall.com/team/ginyaki/",
+    "file": "assets/brands/ginyaki-store.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "bundu-khan",
+    "kind": "logo",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/Bundu-Khan-840x840.jpg",
+    "page": "https://thecentaurusmall.com/team/bundu-khan/",
+    "file": "assets/brands/bundu-khan-logo.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "bundu-khan",
+    "kind": "store",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/bundu-khan-1.jpg",
+    "page": "https://thecentaurusmall.com/team/bundu-khan/",
+    "file": "assets/brands/bundu-khan-store.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "kfc",
+    "kind": "logo",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/Kfc-840x840.jpg",
+    "page": "https://thecentaurusmall.com/team/kfc/",
+    "file": "assets/brands/kfc-logo.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "kfc",
+    "kind": "store",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/KFC-1.jpg",
+    "page": "https://thecentaurusmall.com/team/kfc/",
+    "file": "assets/brands/kfc-store.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "mcdonalds",
+    "kind": "logo",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/McDonalds-840x840.jpg",
+    "page": "https://thecentaurusmall.com/team/mcdonalds/",
+    "file": "assets/brands/mcdonalds-logo.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "mcdonalds",
+    "kind": "store",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/mac-donalds-.jpg",
+    "page": "https://thecentaurusmall.com/team/mcdonalds/",
+    "file": "assets/brands/mcdonalds-store.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "cineplex",
+    "kind": "logo",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2023/11/Cineplex-840x840.png",
+    "page": "https://thecentaurusmall.com/team/cineplex/",
+    "file": "assets/brands/cineplex-logo.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "allied-bank",
+    "kind": "logo",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/Allied-Bank.jpg",
+    "page": "https://thecentaurusmall.com/team/allied-bank/",
+    "file": "assets/brands/allied-bank-logo.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "allied-bank",
+    "kind": "store",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/allied-bank-1.jpg",
+    "page": "https://thecentaurusmall.com/team/allied-bank/",
+    "file": "assets/brands/allied-bank-store.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "adidas",
+    "kind": "logo",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2023/11/Adidas-840x840.png",
+    "page": "https://thecentaurusmall.com/team/adidas/",
+    "file": "assets/brands/adidas-logo.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "adidas",
+    "kind": "store",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2023/11/adidas.jpg",
+    "page": "https://thecentaurusmall.com/team/adidas/",
+    "file": "assets/brands/adidas-store.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "khaadi",
+    "kind": "logo",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/khaadi.jpg",
+    "page": "https://thecentaurusmall.com/team/khaadi/",
+    "file": "assets/brands/khaadi-logo.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "khaadi",
+    "kind": "store",
+    "url": "https://thecentaurusmall.com/wp-content/uploads/2024/05/khaadi-1.jpg",
+    "page": "https://thecentaurusmall.com/team/khaadi/",
+    "file": "assets/brands/khaadi-store.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "sapphire-campaign",
+    "kind": "campaign",
+    "url": "https://cdn.shopify.com/s/files/1/0027/2596/9964/files/upd_RTW_slider.webp?v=1791540217",
+    "page": "https://pk.sapphireonline.pk/",
+    "file": "assets/brands/sapphire-campaign.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "sapphire-sukoon",
+    "kind": "campaign",
+    "url": "https://cdn.shopify.com/s/files/1/0027/2596/9964/files/sukoon_d_8e973813-0062-4c92-ae87-cb23d1f269df.webp?v=1791193006",
+    "page": "https://pk.sapphireonline.pk/",
+    "file": "assets/brands/sapphire-sukoon.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  },
+  {
+    "id": "outfitters-campaign",
+    "kind": "campaign",
+    "url": "https://outfitters.com.pk/cdn/shop/files/Men_Mobile_d18ec5a7-6342-4fd9-bb17-67460e704d56.jpg?v=1790323197&width=600",
+    "page": "https://outfitters.com.pk/",
+    "file": "assets/brands/outfitters-campaign.webp",
+    "checked": "2026-10-10",
+    "license": "Copyright respective brand / publisher. No open license or publication permission established. Sourced for user-requested private pitch reference; clearance required for release."
+  }
+]

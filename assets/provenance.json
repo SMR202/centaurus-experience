@@ -1,0 +1,39 @@
+{
+  "checked": "2026-10-09",
+  "photos": [
+    {
+      "id": "centaurus",
+      "page": "https://commons.wikimedia.org/wiki/File:Centaurus_mall_islamabad.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Centaurus_mall_islamabad.jpg",
+      "author": "Khaqan Ibrahim Chopa",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "file": "assets/photos/centaurus.webp",
+      "changes": "Resized, converted to WebP; cropped in app layout"
+    },
+    {
+      "id": "coffee",
+      "page": "https://commons.wikimedia.org/wiki/File:Nathan_Dumlao_2017-05-26_(Unsplash).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Nathan_Dumlao_2017-05-26_%28Unsplash%29.jpg",
+      "author": "Nathan Dumlao",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "file": "assets/photos/coffee.webp",
+      "changes": "Resized, converted to WebP; cropped in app layout"
+    },
+    {
+      "id": "dining",
+      "page": "https://unsplash.com/photos/cheese-pizza-with-tomatoes-and-rosemary-MQUqbmszGGM",
+      "url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=1400&q=85",
+      "author": "Ivan Torres",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "file": "assets/photos/dining.webp",
+      "changes": "Resized, converted to WebP; cropped in app layout"
+    }
+  ],
+  "originalArt": {
+    "license": "CC0 1.0",
+    "description": "Original tower motif, fictional film posters and campaign graphics drawn with native SVG. No retailer logos."
+  }
+}

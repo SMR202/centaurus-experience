@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Centaurus Experience",
+    "slug": "centaurus-experience",
+    "scheme": "centaurus",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.prototype.centaurus"
+    },
+    "android": { "package": "com.prototype.centaurus" },
+    "web": { "bundler": "metro", "output": "single" },
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": true }
+  }
+}
